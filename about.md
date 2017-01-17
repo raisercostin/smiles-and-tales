@@ -1,5 +1,5 @@
 ---
-title: About
+title: Read & Play & Laugh all day
 ---
 The terrific responses children are sure to offer will make everlasting memories and for scrapbookers strong journaling blocks in albums.  
  Ask, listen and preserve their memories!  
