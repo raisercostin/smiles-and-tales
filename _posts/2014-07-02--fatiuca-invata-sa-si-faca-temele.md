@@ -8,6 +8,7 @@ Fatiuca, fata mamii, o motata cu fundita,
 Cu par cret si incalcit,  
 Imbracata cu rochita,  
 O dulceata de fetita;  
+{{ more }}
 
 Trebuia sa-si faca tema: bastonase,liniute,  
 Patratele  si bilute,  

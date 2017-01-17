@@ -8,6 +8,7 @@ Intr-un regat indepartat, inconjurat de-un cer pictat, cu roz de diamant,
 Cu flori insufletite si pasari felurite,  
 Unde copacii intinereau, graind frumos un cantec  
 Padurile inmiresmau cu miraj si cu zambet
+{{ more }}
 
 Traia acolo un print istet,  
 Cu par balai si ochi verzi de smarald,  
