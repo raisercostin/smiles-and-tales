@@ -18,7 +18,7 @@ layout: none
         <title>{{ post.title | xml_escape }}</title>
         <link>{{ post.url | absolute_url | xml_escape }}</link>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <author>{{ site.author | xml_escape }}&lt;{{ site.email | xml_escape }}&gt;</author>
+        <author>{{ site.author | xml_escape }} &lt;{{ site.email | xml_escape }}&gt;</author>
         <description>{{ post.content | xml_escape }}</description>
       </item>
     {% endfor %}
