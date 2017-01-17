@@ -10,6 +10,7 @@ Iepurasul nazdravan, ce-i drept si cam dolofan,
  Era tare pofticios,  
  Si nu se putea abtine,  
  In nici o cofetarie;
+{{ more }}
 
 Prajituri cu ciocolata,  
  Inghetata aromata,  

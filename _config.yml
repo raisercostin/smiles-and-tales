@@ -43,7 +43,7 @@ collections:
 
 paginate: 10
 paginate_path: '/blog/page:num/'
-repository: 
+repository: raisercostin/smiles-and-tales
 
 footer-links:
   dribbble:
