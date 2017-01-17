@@ -19,7 +19,7 @@ layout: none
 	<entry>
 		<id>{{ post.url | absolute_url }}</id>
 		<link type="text/html" rel="alternate" href="{{ post.url | absolute_url }}" />
-		<title type="text">{{ post.title | strip_html }}</title>
+		<title type="text">{{ post.title | strip_html | xml_escape}}</title>
 		<published>{{ post.date | date_to_xmlschema }}</published>
 		<updated>{% if post.updated == null %}{{ post.date | date_to_xmlschema }}{% else %}{{ post.updated | append: '@12am' | date_to_xmlschema }}{% endif %}</updated>
 		<summary type="html">{{ post.excerpt | strip_html | xml_escape }}</summary>
