@@ -6,8 +6,8 @@ layout: none
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>{{ site.title | xml_escape }}</title>
 	<link type="application/atom+xml" rel="self" href="{{ page.url | absolute_url }}" />
-	<link href="{{ '' | absolute_url }}/" />
-	<id>{{ '' | absolute_url }}/</id>
+	<link href="{{ '' | absolute_url }}" />
+	<id>{{ '' | absolute_url }}</id>
 	<author>
 		<name>{{ site.author | xml_escape }}</name>
 		<email>{{ site.email | xml_escape }}</email>

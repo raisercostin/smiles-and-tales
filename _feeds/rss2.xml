@@ -14,7 +14,7 @@ layout: none
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <atom:link type="application/rss+xml" rel="self" href="{{ page.url | absolute_url }}" />
-    <link>{{ '' | absolute_url }}/</link>
+    <link>{{ '' | absolute_url }}</link>
 
     <description>{{ site.description | xml_escape }}</description>
     <language>en-us</language>
