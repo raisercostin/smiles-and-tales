@@ -4,7 +4,7 @@ author: Lavinia Grigore
 tags: romanian,rime,rhymes
 ---
 
-![iepurasul nazdravan]({{ 'nature_rabbit_bunny.jpg' | relative_url }}){:class="img-responsive"}
+![iepurasul nazdravan]({{ 'nature_rabbit_bunny.jpg' | relative_url }}){:class="img-responsive"}{:style="widht:300px;"}
 
 Iepurasul nazdravan, ce-i drept si cam dolofan,  
  Era tare pofticios,  
