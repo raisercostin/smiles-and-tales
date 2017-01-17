@@ -2,6 +2,8 @@
 title: Charlie & friends
 author: Lavinia Grigore
 tags: english,rhymes
+image: RidKeoz5T.png
+imageStyle: "height:200px;"
 ---
 
 ![charlie]({{ 'RidKeoz5T.png' | relative_url }}){:class="img-responsive"}{:style="width:223px"}

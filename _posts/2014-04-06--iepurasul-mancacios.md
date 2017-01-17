@@ -2,6 +2,7 @@
 title: Iepurasul mancacios
 author: Lavinia Grigore
 tags: romanian,rime,rhymes
+image: nature_rabbit_bunny.jpg
 ---
 
 ![iepurasul nazdravan]({{ 'nature_rabbit_bunny.jpg' | relative_url }}){:class="img-responsive"}{:style="widht:300px;"}

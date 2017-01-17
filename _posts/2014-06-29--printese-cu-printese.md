@@ -2,6 +2,8 @@
 title: Printese cu printese
 author: Lavinia Grigore
 tags: romanian,rime,rhymes
+image: printesa-albastra.png
+imageStyle: "height:200px;"
 ---
 
 ![printesa albastra]({{ 'printesa-albastra.png' | relative_url }}){:class="img-responsive"}{:style="width:200px"}
